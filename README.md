@@ -41,6 +41,12 @@ Using a cross-cohort-longitudinal approach, data from three UK longitudinal stud
 ### Solution 
 Share findings that play and genetics researchers can engagement
 
+### Addition Project Details
+[research questions](https://github.com/Gillfrancis/Play-and-Genetics/blob/main/Project-Proposal/Research-Questions.md)
+
+
+
+
 
 ## Why is this research important?
 Explain what makes your project special, useful, exciting! You can use the ideas you generated for “Unique Value Proposition” in your Open Canvas here.
