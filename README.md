@@ -17,3 +17,7 @@ Using an original approach, behavioural genetics and developmental psychology me
 
 ![My university of York Profile](https://www.york.ac.uk/education/our-staff/academic/gill-francis/)
 
+### Things to do after this workship
+- create your OLS project repo
+- add vision and roadmap
+- add a website
