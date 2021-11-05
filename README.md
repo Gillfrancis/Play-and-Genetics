@@ -12,4 +12,8 @@ Using an original approach, behavioural genetics and developmental psychology me
 ## Steps
 1. Create README
 2. Create a webpage
-3. 
+
+![Github guidance](https://www.youtube.com/watch?v=lRW8mlpTw5M)
+
+![My university of York Profile](https://www.york.ac.uk/education/our-staff/academic/gill-francis/)
+
