@@ -39,7 +39,7 @@ To contribute to this work, you can either of the following:
 
 
 ## How to get in touch?
-To get in touch please contact project colloborators via email.
+To get in touch please contact project colloborators:
 Project Lead: Gill Francis (gill.francis@york.ac.uk)
 Project Mentor: Umar Toseeb (umar.toseeb@york.ac.uk)
 
