@@ -1,4 +1,4 @@
-# Play and Child Development: Role of Parent and Child Genes and the Environment
+# Play and Child Development: The Role of Genetic and Environmental Influences on Young Children’s Play
 Imagination is the only weapon in the war against reality (Lewis Caroll – Alice in Wonderland)
 
 
@@ -62,14 +62,10 @@ To get in touch you can contact the Project Lead: Gill Francis (gill.francis@yor
 
 ### NOTES BELOW THIS LINE TO EDIT
 ## Roadmap for my project
-* create a repository
 * Add README
-* Edit README
+* create a repository
 * Create PR
-
-## Steps
-1. Create README
-2. Create a webpage
+* Create Webpage
 
 ![Github guidance](https://www.youtube.com/watch?v=lRW8mlpTw5M)
 
