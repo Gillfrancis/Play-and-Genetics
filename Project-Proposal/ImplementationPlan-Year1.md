@@ -1,2 +1,3 @@
-#Project Implementation Strategy
+##Project Implementation Strategy
+
 The project implementation involves writing a "Problem analysis/Working Paper" to situate the project proposal in the literature (see the problem analysis paper in the project proposal folder). The working paper is shared with experts in the field of play research and behavioural genetics to receive feedback on the proposed work. The version of the working paper included here is the version shared with expert reviewers for comments. The feedback from experts will be used to improve the quality of the project. Finally, the working paper/problem analysis will be turned to a journal article that discusses - Can behavioura genetics advance the study of children's play?  
