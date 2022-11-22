@@ -1,5 +1,5 @@
 # Play and Child Development: The Role of Genetic and Environmental Influences on Young Children’s Play
-Imagination is the only weapon in the war against reality (Lewis Caroll – Alice in Wonderland)
+Genes are not about inevitabilities; they’re about potentials and vulnerabilities (Robert Sapolsky)
 
 
 
@@ -56,25 +56,6 @@ To get in touch you can contact the Project Lead: Gill Francis (gill.francis@yor
 
 
 
-
-
-
-
-### NOTES BELOW THIS LINE TO EDIT
-## Roadmap for my project
-* Add README
-* create a repository
-* Create PR
-* Create Webpage
-
-![Github guidance](https://www.youtube.com/watch?v=lRW8mlpTw5M)
-
-![My university of York Profile](https://www.york.ac.uk/education/our-staff/academic/gill-francis/)
-
-
-
-### Addition Project Details
-[research questions](https://github.com/Gillfrancis/Play-and-Genetics/blob/main/Project-Proposal/Research-Questions.md)
 
 
 
